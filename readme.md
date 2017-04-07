@@ -8,7 +8,7 @@ Of course we can build those dependdencies from source, but some libraries may b
 
 ## Folder and file structure
 
-Each sub folder is a platform with a certain compiler. For example, the folder "mingw" is for MingW and apparently the compiler is GCC. The "msvc" folder is for Microsoft Visual C++ and of course for Windows.
+Each sub folder is a platform with a certain compiler. For example, the folder "mingw32" is for MingW 32 bits and apparently the compiler is GCC. The "msvc32" folder is for Microsoft Visual C++ and of course for Windows, 32 bits.
 
 In each sub folder, there are zip files. Each file is for one library, one compiler, one build target, and one link mode.
 
