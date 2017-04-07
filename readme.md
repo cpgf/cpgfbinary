@@ -44,3 +44,7 @@ You are welcome to put libraries for Lua, Python 2, Google V8 JavaScript engine,
 
 Especially V8 and SpiderMonkey are needed because they are too difficult to compile.
 
+## About copyright
+
+Each library binary should be redistributed under its own copyright. This respository is only a convenient way to get those binaries. I don't own any copyright of any libraries listed here.
+
